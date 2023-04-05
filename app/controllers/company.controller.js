@@ -56,15 +56,15 @@ exports.add = (req, res) => {
             // eligibility
             for(let course in _b.eligibility){
                 if(course == "UG"){
-                    email.push(batch-4+"_ug_all@mnit.ac.in");
+                    email.push(batch-4+"_ug_all@mbm.ac.in");
                 } else if(course == "MTech"){
-                    email.push(batch-2+"_MTECH@mnit.ac.in");
+                    email.push(batch-2+"_MTECH@mbm.ac.in");
                 } else if(course == "MPlan"){
-                    email.push(batch-2+"_PAR@mnit.ac.in");
+                    email.push(batch-2+"_PAR@mbm.ac.in");
                 } else if(course == "MSc"){
-                    email.push(batch-2+"_MSC@mnit.ac.in");
+                    email.push(batch-2+"_MSC@mbm.ac.in");
                 } else if(course == "MBA"){
-                    email.push(batch-2+"_PBM@mnit.ac.in");
+                    email.push(batch-2+"_PBM@mbm.ac.in");
                 }
             }
 
