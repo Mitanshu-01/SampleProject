@@ -127,7 +127,7 @@ If you want to talk directly to me, email is the easiest way.
 Liked the initiative? Star the repo and show some love <3
 
 ## Credits
-Pankaj Tanwar 
+Nikita Soni
 
 <a href="https://github.com/pankajtanwarbanna/Placementmbm/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=pankajtanwarbanna/Placementmbm" />
