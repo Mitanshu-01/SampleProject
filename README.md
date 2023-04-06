@@ -118,7 +118,7 @@ Invite me to connect on LinkedIn.
 
 #### Email 
 
-[pankajtanwar510@gmail.com](mailto:pankajtanwar510@gmail.com)
+[pankajtanwar510@gmail.com](mailto:bhargavamitanshu3@gmail.com)
 
 If you want to talk directly to me, email is the easiest way.
 
